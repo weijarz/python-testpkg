@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 import testpkg
 
 setup(
-    name='testpkg',
-    version='0.0.1',
+    name='python-testpkg',
+    version='0.1',
     description='Run test package.',
     url='https://github.com/weijar/python-testpkg',
     author='weijarz',
