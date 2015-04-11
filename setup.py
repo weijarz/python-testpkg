@@ -4,7 +4,7 @@ import testpkg
 
 setup(
     name='python-testpkg',
-    version='0.1',
+    version='0.2',
     description='Run test package.',
     url='https://github.com/weijar/python-testpkg',
     author='weijarz',

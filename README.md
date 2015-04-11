@@ -1,5 +1,9 @@
 # Run test package.
 
+## Install
+
+    $ pip install python-testpkg
+
 ## Write test package and run
 
     mytests/
