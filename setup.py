@@ -6,7 +6,7 @@ setup(
     name='python-testpkg',
     version='0.2',
     description='Run test package.',
-    url='https://github.com/weijar/python-testpkg',
+    url='https://github.com/weijarz/python-testpkg',
     author='weijarz',
     author_email='weijarz@gmail.com',
     license='MIT',
